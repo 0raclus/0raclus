@@ -1,1 +1,1 @@
-![photo_2026-02-21 04 14 34](https://github.com/user-attachments/assets/a3053b88-bd6f-4dd0-abfb-7d0291460bf8)
+<img width="3358" height="1894" alt="efecto-2026-02-17T16-26-03" src="https://github.com/user-attachments/assets/36138d4e-d703-4cfa-965e-5786d159053e" />
