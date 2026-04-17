@@ -1,1 +1,1 @@
-<img width="3358" height="1894" alt="efecto-2026-02-17T16-26-03" src="https://github.com/user-attachments/assets/36138d4e-d703-4cfa-965e-5786d159053e" />
+<img width="736" height="729" alt="_ (6)" src="https://github.com/user-attachments/assets/03a74276-b89f-4ba4-a3fc-fac30905fd57" />
