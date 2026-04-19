@@ -1,1 +1,3 @@
-<img width="736" height="729" alt="_ (6)" src="https://github.com/user-attachments/assets/03a74276-b89f-4ba4-a3fc-fac30905fd57" />
+- libera (IRC): `kh0ra`
+- PGP fingerprint: [`E3C4 7D37 7E6B 2960 119C  5FFD E3B9 D276 981B 45C0`]
+- Matrix: [@kh0ra:matrix.org](https://matrix.to/#/@kh0ra:matrix.org)
